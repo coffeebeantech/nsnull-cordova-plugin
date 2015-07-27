@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "name": "nsnull-cordova-plugin",
+  "cordova_name": "NSNull Plugin",
+  "description": "Plugin to extend iOS NSNull capabilities to better integrate with JSON interpreters.",
+  "license": "MIT",
+  "repo": "https://github.com/coffeebeantech/nsnull-cordova-plugin.git",
+  "issue": "https://github.com/coffeebeantech/nsnull-cordova-plugin/issues",
+  "keywords": [
+    "ios",
+    "nsnull",
+    "json"
+  ],
+  "platforms": [
+    "ios"
+  ]
+}

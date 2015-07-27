@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin id="nsnull-cordova-plugin" version="0.0.1" xmlns="http://apache.org/cordova/ns/plugins/1.0">
+    <name>NSNull Plugin</name>
+    <description>Plugin to extend iOS NSNull capabilities to better integrate with JSON interpreters.</description>
+    <author email="renato.neves@coffeebeantech.com" href="https://github.com/coffeebeantech/nsnull-cordova-plugin">Renato Neves</author>
+    <license>MIT</license>
+    <keywords>ios,nsnull,json</keywords>
+    <repo>https://github.com/coffeebeantech/nsnull-cordova-plugin.git</repo>
+    <issue>https://github.com/coffeebeantech/nsnull-cordova-plugin/issues</issue>
+    <platform name="ios">
+        <source-file src="src/ios/NSNull+JSON.m"/>
+    </platform>
+</plugin>
